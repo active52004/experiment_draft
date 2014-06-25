@@ -1,0 +1,58 @@
+\documentclass{article}
+
+\usepackage{nomencl}
+\makenomenclature
+
+\usepackage{amsthm} %Theorem package
+\usepackage{amsmath} %
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{verbatim}
+\usepackage{epstopdf}
+
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{defination}{Definition}[section]
+\newtheorem{proposition}{Proposition}[section]
+
+\begin{document}
+\include{Notation}
+\printnomenclature
+\section{Implement Issues}
+\section{Experiments and Results}
+This section represents the simulation of two types of integrity attacks on the original CETD-MAC design and its improved versions. We use short ciphertext-tag pair to demonstrate our security analysis results. 
+\subsection{Integrity Attacks Simulation}
+Our simulations of the content modification and copying-then-replaying attack follow the attack definitions depicted in Section 2. We developed the simulator of original CETD-MAC scheme and its improved variants with C programming language. We designed a simulation to evaluation the behaviour of tags from each simulator under integrity attacks and demestracte our theoretical analysis with the records of tag behaviours. 
+\paragraph{Simulation Platform and Parameters}
+Our simulator of original CETD-MAC and its improved version are developed with C programming language under C99 standard. The simulations were conducted on Linux x64 platforms. Due to the limitation of computation resources, we choose short cihpertext and tag. A ciphertext is consist of two 8-bit blocks. The tag length is 8 bits. We use 128-bits key to generate the 128-bits nonce. The block cipher we choose is the Rijndael AES implemented in PolarSSL \cite{}.   
+%nonce is fixed, input changes, No. of distinct tags 
+\subsubsection{Content Modification Attack Simulation}
+When conducting a content modification attack, the adversary modifies the content of a memory frame. The verification stage compute the tag T for the ciphertext C$_{f}$on the modified frame Frame$_{f}$ using the same nonce generating the original ciphertext and tag.
+This procesure can be modeled as querying the MAC scheme with distinct inputs while maintain the nonce unchanged. A secure MAC scheme should ensure that for any two distint input in the domain, the probability that the two tags collide when the nonce is identical should be low.
+
+In the simulation of content modification attack, totally 17 input sets are created and each input set is consist of all possible 16-bit two-block inputs with same number of 1s. The size of a input set is computed with the equation:$\binom{n}{k}$, where n is the Len(input) which is 16 in our simulation and k is the number of 1s in a input.   
+We divided all 16-bits binary numbers to 17 distinct sets and each set consist of the number contains k 1s and 16-k 0s, where k $\in$ [0,16]. For each set, we use its elements as inputs to tag generations. A base nonce is generated before the test with AES and the nonce for each input in the same set is a copy of the base nonce.   
+Table $\ref{set-size}$ expressed the relationship between the number of 1s in a 16-bits input and the set size. In our simulation of content modification attack, each round is expressed in the following steps:
+\begin{itemize}
+	\item Step 1: Generate a base nonce N$_{base}$ with a tuple(address, counter, random number) for a set S$_i$ of inputs. Any element in S$_i$ contains i 1s and 16-i 0s.
+	\item Step 2: Generate two tags with a copy of the base nonce N$_{base}$. The first tag T1 uses a element from set S$_i$  and the second tag T2 uses a 16-bits random number as input. 
+	\item Step 3: Repeat step 2 for all the elements in set S$_i$, compute the number of distinct T1s and T2s, marked as Round$_r$\_num\_T1\_S$_i$ and Round$_r$\_num\_T2\_S$_i$. Round$_r$ is the index of current test round.
+	\item Step 4: Repeat step 3 for all the sets where i $\in$ [0,16] 
+\end{itemize}
+We repeat the simulation 1000 rounds and compute the average of Round$_r$\_num\_T1\_S$_i$s and Round$_r$\_num\_T2\_S$_i$s seperately. The average results   Aver\_num\_T1\_S$_i$ and Aver\_num\_T2\_S$_i$ for each set S$_i$ serves as the indicator of the security of a tested scheme under content modification attack.
+The concept of our simulation of content modification attack is expressed in Figure $\ref{cma}$.
+
+%input is fixed, nonce changes, No. of distinct tags
+\subsubsection{Copying-then-Replaying Attack Simulation}
+If the adversary conducts a copy-then-replay attack, he will maintain a copy of valid fram written in an older time point of on different memory address and then replace the vailid frame with this copy. This procedure can be modeled as querying the MAC scheme with a fixed chosen input while the input of nonce generation is distinct for each query. It is possible that two tags collide when they are generated with two distinct nonce but one identical input. The high probability of this collision indicates that the MAC scheme is unsecure under copy-then-replay attack.  
+
+Our simulation of copy-then-replay attack is modeled into the following steps:
+\begin{itemize}
+	\item Step 1: Choose 0x0000 as the ciphertext 
+	\item Step 2: Generate k tags with k nonces. The input to generation each nonce is distinct
+	\item Step 3: Compute the No. of distinct tags among the k tags
+	\item Step 4: If the ciphertext is not bigger than 0xFFFF, add it with one then repeat step 2 and step 3.
+\end{itemize}
+For each ciphertext, we generate 1000 tags. The concept of our simulation of copy-then-replay attack is also expressed in Figure $\ref{ctra}$.
+\end{document}
