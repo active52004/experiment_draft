@@ -1,14 +1,21 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.19)  25 JUN 2014 18:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.3)  26 JUN 2014 00:11
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **experiment_draft.tex
-(./experiment_draft.tex
+(D:\GitHub\experiment_draft\experiment_draft.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(G:\Tools\MikTex\tex\latex\base\article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+(G:\Tools\MikTex\tex\latex\base\size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,18 +30,16 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/nomencl/nomencl.sty
+(G:\Tools\MikTex\tex\latex\nomencl\nomencl.sty
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 \nomlabelwidth=\dimen103
 \nom@tempdim=\dimen104
 \nomitemsep=\skip43
 )
 \@nomenclaturefile=\write3
-\openout3 = `experiment_draft.nlo'.
-
 
 Writing nomenclature file experiment_draft.nlo
-(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+(G:\Tools\MikTex\tex\latex\amscls\amsthm.sty
 Package: amsthm 2004/08/06 v2.20
 \thm@style=\toks14
 \thm@bodyfont=\toks15
@@ -46,24 +51,24 @@ Package: amsthm 2004/08/06 v2.20
 \thm@headsep=\skip46
 \dth@everypar=\toks19
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+(G:\Tools\MikTex\tex\latex\amsmath\amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip47
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(G:\Tools\MikTex\tex\latex\amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(G:\Tools\MikTex\tex\latex\amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks20
 \ex@=\dimen105
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(G:\Tools\MikTex\tex\latex\amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen106
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(G:\Tools\MikTex\tex\latex\amsmath\amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
@@ -104,31 +109,31 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(G:\Tools\MikTex\tex\latex\graphics\graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(G:\Tools\MikTex\tex\latex\graphics\keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks25
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(G:\Tools\MikTex\tex\latex\graphics\graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(G:\Tools\MikTex\tex\latex\graphics\trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(G:\Tools\MikTex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(G:\Tools\MikTex\tex\latex\pdftex-def\pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(G:\Tools\MikTex\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(G:\Tools\MikTex\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count99
@@ -136,8 +141,8 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
-Package: subfigure 2002/03/15 v2.1.5 subfigure package
+(G:\Tools\MikTex\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip50
 \subfigcapskip=\skip51
 \subfigcaptopadj=\dimen116
@@ -152,38 +157,38 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+(G:\Tools\MikTex\tex\latex\subfigure\subfigure.cfg)
 \subfig@top=\skip54
 \subfig@bottom=\skip55
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+(G:\Tools\MikTex\tex\latex\tools\verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks26
 \verbatim@line=\toks27
 \verbatim@in@stream=\read1
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+(G:\Tools\MikTex\tex\latex\oberdiek\epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(G:\Tools\MikTex\tex\latex\oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(G:\Tools\MikTex\tex\latex\oberdiek\grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(G:\Tools\MikTex\tex\generic\oberdiek\kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(G:\Tools\MikTex\tex\latex\oberdiek\kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(G:\Tools\MikTex\tex\generic\oberdiek\kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(G:\Tools\MikTex\tex\generic\oberdiek\etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(G:\Tools\MikTex\tex\generic\oberdiek\ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -192,11 +197,11 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(G:\Tools\MikTex\tex\generic\oberdiek\pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(G:\Tools\MikTex\tex\generic\oberdiek\ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -209,99 +214,116 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-)))
-\c@theorem=\count104
-\c@defination=\count105
-\c@proposition=\count106
-
-No file experiment_draft.aux.
-\openout1 = `experiment_draft.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
-\scratchdimen=\dimen118
-\scratchbox=\box28
-\nofMPsegments=\count108
-\nofMParguments=\count109
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count110
-\MPscratchDim=\dimen119
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
-\everyMPtoPDFconversion=\toks29
+))
+(G:\Tools\MikTex\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen118
+\lightrulewidth=\dimen119
+\cmidrulewidth=\dimen120
+\belowrulesep=\dimen121
+\belowbottomsep=\dimen122
+\aboverulesep=\dimen123
+\abovetopsep=\dimen124
+\cmidrulesep=\dimen125
+\cmidrulekern=\dimen126
+\defaultaddspace=\dimen127
+\@cmidla=\count104
+\@cmidlb=\count105
+\@aboverulesep=\dimen128
+\@belowrulesep=\dimen129
+\@thisruleclass=\count106
+\@lastruleclass=\count107
+\@thisrulewidth=\dimen130
 )
-\openout2 = `Notation.aux'.
+\c@theorem=\count108
+\c@defination=\count109
+\c@proposition=\count110
 
- (./Notation.tex)
+(D:\GitHub\experiment_draft\experiment_draft.aux
+(D:\GitHub\experiment_draft\Notation.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+(G:\Tools\MikTex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen131
+\scratchbox=\box28
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen132
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks29
+) (D:\GitHub\experiment_draft\Notation.tex)
 No file experiment_draft.nls.
-
-LaTeX Warning: Reference `set-size' on page 1 undefined on input line 35.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 37.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
+(G:\Tools\MikTex\tex\latex\base\omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
  [1
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (11.19905pt too wide) in paragraph at lines 39--40
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (11.19905pt too wide) in paragraph at lines 70--71
 \OT1/cmr/m/n/10 dis-tinct T1s and T2s, marked as Round$[]$[]num[]T1[]S$[]$ and 
 Round$[]$[]num[]T2[]S$[]$.
  []
 
+<./diagrams/nonceCollide.pdf, id=11, 831.70723pt x 590.205pt>
+File: ./diagrams/nonceCollide.pdf Graphic file (type pdf)
 
-LaTeX Warning: Reference `cma' on page 2 undefined on input line 43.
+<use ./diagrams/nonceCollide.pdf>
+Package pdftex.def Info: ./diagrams/nonceCollide.pdf used on input line 75.
+(pdftex.def)             Requested size: 332.677pt x 236.0778pt.
 
-
-Overfull \hbox (25.89154pt too wide) in paragraph at lines 42--44
-\OT1/cmr/m/n/10 We re-peat the sim-u-la-tion 1000 rounds and com-pute the av-er
--age of Round$[]$[]num[]T1[]S$[]$s
+Overfull \hbox (40.89154pt too wide) in paragraph at lines 80--82
+[]\OT1/cmr/m/n/10 We re-peat the sim-u-la-tion 1000 rounds and com-pute the av-
+er-age of Round$[]$[]num[]T1[]S$[]$s
  []
 
-[2] (./experiment_draft.aux (./Notation.aux))
+[2] [3 <D:/GitHub/experiment_draft/diagrams/nonceCollide.pdf>]
+<./diagrams/replay_attack.pdf, id=68, 475.17525pt x 327.624pt>
+File: ./diagrams/replay_attack.pdf Graphic file (type pdf)
 
-LaTeX Warning: There were undefined references.
-
- ) 
+<use ./diagrams/replay_attack.pdf>
+Package pdftex.def Info: ./diagrams/replay_attack.pdf used on input line 96.
+(pdftex.def)             Requested size: 190.06673pt x 131.04727pt.
+ [4 <D:/GitHub/experiment_draft/diagrams/replay_attack.pdf>] (D:\GitHub\experim
+ent_draft\experiment_draft.aux
+(D:\GitHub\experiment_draft\Notation.aux)) ) 
 Here is how much of TeX's memory you used:
- 2480 strings out of 493304
- 33409 string characters out of 6139871
- 94955 words of memory out of 5000000
- 5912 multiletter control sequences out of 15000+600000
- 6231 words of font info for 23 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 42i,4n,24p,581b,173s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on experiment_draft.pdf (2 pages, 77586 bytes).
+ 2547 strings out of 493921
+ 33532 string characters out of 3152095
+ 93970 words of memory out of 3000000
+ 5806 multiletter control sequences out of 15000+200000
+ 5612 words of font info for 21 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,8n,24p,597b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
+<G:/Tools/MikTex/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><G:/Tools/MikTex
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb><G:/Tools/MikTex/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+>
+Output written on experiment_draft.pdf (4 pages, 322581 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
