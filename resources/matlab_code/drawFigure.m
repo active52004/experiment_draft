@@ -3,9 +3,12 @@ clear all;
 clc;
 MaxValue = 256;
 
-dir = '../frequency_results/'
-file1 = [dir,'frequency_1original10000.csv'];
-file2 = [dir,'frequency_shift1000.csv'];
+dir = './results/'
+origin = [dir,'original/replay_original_10000.csv'];
+optv1 = [dir,'optv1/replay_optv1_10000.csv'];%original 
+optv2 = [dir,'optv2/replay_optv2_10000.csv'];
+optv3 = [dir,'optv3/replay_optv3_gf1_10000.csv'];
+optv4 = [dir,'optv4/replay_optv4_gf1_10000.csv'];
 %file3 = [dir,'frequency_xorNonce_3000count.csv'];
 
 S = 1:100;
@@ -13,8 +16,8 @@ B_S = dec2bin(S);
 s_1=S(1):5:S(length(S));
 bs1=dec2bin(s_1,16);
 
-M1=csvread(file1);
-M2=csvread(file2);
+M1=csvread(origin);
+M2=csvread(origin);
 %M3=csvread(file3);
 
 M_live = M1;

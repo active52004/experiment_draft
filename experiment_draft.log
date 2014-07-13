@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.3)  26 JUN 2014 00:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.3)  8 JUL 2014 12:46
 entering extended mode
 **experiment_draft.tex
 (D:\GitHub\experiment_draft\experiment_draft.tex
@@ -285,45 +285,310 @@ Overfull \hbox (11.19905pt too wide) in paragraph at lines 70--71
 Round$[]$[]num[]T2[]S$[]$.
  []
 
-<./diagrams/nonceCollide.pdf, id=11, 831.70723pt x 590.205pt>
-File: ./diagrams/nonceCollide.pdf Graphic file (type pdf)
+<./diagrams/nonceCollide_flow.pdf, id=11, 573.94424pt x 546.24077pt>
+File: ./diagrams/nonceCollide_flow.pdf Graphic file (type pdf)
 
-<use ./diagrams/nonceCollide.pdf>
-Package pdftex.def Info: ./diagrams/nonceCollide.pdf used on input line 75.
-(pdftex.def)             Requested size: 332.677pt x 236.0778pt.
+<use ./diagrams/nonceCollide_flow.pdf>
+Package pdftex.def Info: ./diagrams/nonceCollide_flow.pdf used on input line 75
+.
+(pdftex.def)             Requested size: 286.97142pt x 273.11972pt.
 
-Overfull \hbox (40.89154pt too wide) in paragraph at lines 80--82
+<./diagrams/static_array.pdf, id=12, 479.99326pt x 276.43274pt>
+File: ./diagrams/static_array.pdf Graphic file (type pdf)
+
+<use ./diagrams/static_array.pdf>
+Package pdftex.def Info: ./diagrams/static_array.pdf used on input line 77.
+(pdftex.def)             Requested size: 239.99603pt x 138.21602pt.
+
+Overfull \hbox (40.89154pt too wide) in paragraph at lines 82--84
 []\OT1/cmr/m/n/10 We re-peat the sim-u-la-tion 1000 rounds and com-pute the av-
 er-age of Round$[]$[]num[]T1[]S$[]$s
  []
 
-[2] [3 <D:/GitHub/experiment_draft/diagrams/nonceCollide.pdf>]
-<./diagrams/replay_attack.pdf, id=68, 475.17525pt x 327.624pt>
+[2] [3 <D:/GitHub/experiment_draft/diagrams/nonceCollide_flow.pdf> <D:/GitHub/e
+xperiment_draft/diagrams/static_array.pdf
+
+pdfTeX warning: pdflatex.exe (file D:/GitHub/experiment_draft/diagrams/static_a
+rray.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+>]
+Overfull \hbox (26.12567pt too wide) in paragraph at lines 101--115
+ [][][] 
+ []
+
+<./diagrams/replay_attack.pdf, id=32, 475.17525pt x 327.624pt>
 File: ./diagrams/replay_attack.pdf Graphic file (type pdf)
 
 <use ./diagrams/replay_attack.pdf>
-Package pdftex.def Info: ./diagrams/replay_attack.pdf used on input line 96.
+Package pdftex.def Info: ./diagrams/replay_attack.pdf used on input line 118.
 (pdftex.def)             Requested size: 190.06673pt x 131.04727pt.
- [4 <D:/GitHub/experiment_draft/diagrams/replay_attack.pdf>] (D:\GitHub\experim
-ent_draft\experiment_draft.aux
+Package epstopdf Info: Source file: <./diagrams/1000_eps/CETD_1000.eps>
+(epstopdf)                    date: 2014-07-08 10:14:24
+(epstopdf)                    size: 22546 bytes
+(epstopdf)             Output file: <./diagrams/1000_eps/CETD_1000-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-07-08 11:04:42
+(epstopdf)                    size: 6675 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/CETD_10
+00-eps-converted-to.pdf ./diagrams/1000_eps/CETD_1000.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/1000_eps/CETD_1000-eps-converted-to.pdf, id=33, 622.325pt x 249.933
+75pt>
+File: ./diagrams/1000_eps/CETD_1000-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./diagrams/1000_eps/CETD_1000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/1000_eps/CETD_1000-eps-converted-to.pdf use
+d on input line 130.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/1000_eps/D1_1000.eps>
+(epstopdf)                    date: 2014-07-08 10:14:51
+(epstopdf)                    size: 22544 bytes
+(epstopdf)             Output file: <./diagrams/1000_eps/D1_1000-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-07-08 10:46:50
+(epstopdf)                    size: 6714 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D1_1000
+-eps-converted-to.pdf ./diagrams/1000_eps/D1_1000.eps>
+(epstopdf)             \includegraphics on input line 134.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/1000_eps/D1_1000-eps-converted-to.pdf, id=34, 622.325pt x 249.93375
+pt>
+File: ./diagrams/1000_eps/D1_1000-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./diagrams/1000_eps/D1_1000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/1000_eps/D1_1000-eps-converted-to.pdf used 
+on input line 134.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/1000_eps/D2_1000.eps>
+(epstopdf)                    date: 2014-07-08 10:15:15
+(epstopdf)                    size: 22544 bytes
+(epstopdf)             Output file: <./diagrams/1000_eps/D2_1000-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-07-08 11:04:43
+(epstopdf)                    size: 6950 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D2_1000
+-eps-converted-to.pdf ./diagrams/1000_eps/D2_1000.eps>
+(epstopdf)             \includegraphics on input line 138.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/1000_eps/D2_1000-eps-converted-to.pdf, id=35, 622.325pt x 249.93375
+pt>
+File: ./diagrams/1000_eps/D2_1000-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./diagrams/1000_eps/D2_1000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/1000_eps/D2_1000-eps-converted-to.pdf used 
+on input line 138.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/1000_eps/D3_1000.eps>
+(epstopdf)                    date: 2014-07-08 10:15:37
+(epstopdf)                    size: 22544 bytes
+(epstopdf)             Output file: <./diagrams/1000_eps/D3_1000-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-07-08 11:04:43
+(epstopdf)                    size: 6913 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D3_1000
+-eps-converted-to.pdf ./diagrams/1000_eps/D3_1000.eps>
+(epstopdf)             \includegraphics on input line 142.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/1000_eps/D3_1000-eps-converted-to.pdf, id=36, 622.325pt x 249.93375
+pt>
+File: ./diagrams/1000_eps/D3_1000-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./diagrams/1000_eps/D3_1000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/1000_eps/D3_1000-eps-converted-to.pdf used 
+on input line 142.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/1000_eps/D5_1000.eps>
+(epstopdf)                    date: 2014-07-08 10:16:01
+(epstopdf)                    size: 22544 bytes
+(epstopdf)             Output file: <./diagrams/1000_eps/D5_1000-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-07-08 11:04:44
+(epstopdf)                    size: 6747 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D5_1000
+-eps-converted-to.pdf ./diagrams/1000_eps/D5_1000.eps>
+(epstopdf)             \includegraphics on input line 146.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/1000_eps/D5_1000-eps-converted-to.pdf, id=37, 622.325pt x 249.93375
+pt>
+File: ./diagrams/1000_eps/D5_1000-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./diagrams/1000_eps/D5_1000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/1000_eps/D5_1000-eps-converted-to.pdf used 
+on input line 146.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/1000_eps/D6_1000.eps>
+(epstopdf)                    date: 2014-07-08 10:16:21
+(epstopdf)                    size: 22544 bytes
+(epstopdf)             Output file: <./diagrams/1000_eps/D6_1000-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-07-08 11:04:44
+(epstopdf)                    size: 6608 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D6_1000
+-eps-converted-to.pdf ./diagrams/1000_eps/D6_1000.eps>
+(epstopdf)             \includegraphics on input line 150.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/1000_eps/D6_1000-eps-converted-to.pdf, id=38, 622.325pt x 249.93375
+pt>
+File: ./diagrams/1000_eps/D6_1000-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./diagrams/1000_eps/D6_1000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/1000_eps/D6_1000-eps-converted-to.pdf used 
+on input line 150.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/10000_eps/CETD_10000.eps>
+(epstopdf)                    date: 2014-07-08 10:17:03
+(epstopdf)                    size: 22548 bytes
+(epstopdf)             Output file: <./diagrams/10000_eps/CETD_10000-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2014-07-08 11:22:18
+(epstopdf)                    size: 6520 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/CETD_1
+0000-eps-converted-to.pdf ./diagrams/10000_eps/CETD_10000.eps>
+(epstopdf)             \includegraphics on input line 177.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/10000_eps/CETD_10000-eps-converted-to.pdf, id=39, 622.325pt x 249.9
+3375pt>
+File: ./diagrams/10000_eps/CETD_10000-eps-converted-to.pdf Graphic file (type p
+df)
+ <use ./diagrams/10000_eps/CETD_10000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/10000_eps/CETD_10000-eps-converted-to.pdf u
+sed on input line 177.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/10000_eps/D1_10000.eps>
+(epstopdf)                    date: 2014-07-08 10:17:32
+(epstopdf)                    size: 22546 bytes
+(epstopdf)             Output file: <./diagrams/10000_eps/D1_10000-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-07-08 11:22:03
+(epstopdf)                    size: 6122 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D1_100
+00-eps-converted-to.pdf ./diagrams/10000_eps/D1_10000.eps>
+(epstopdf)             \includegraphics on input line 181.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/10000_eps/D1_10000-eps-converted-to.pdf, id=40, 622.325pt x 249.933
+75pt>
+File: ./diagrams/10000_eps/D1_10000-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./diagrams/10000_eps/D1_10000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/10000_eps/D1_10000-eps-converted-to.pdf use
+d on input line 181.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/10000_eps/D2_10000.eps>
+(epstopdf)                    date: 2014-07-08 10:17:58
+(epstopdf)                    size: 22546 bytes
+(epstopdf)             Output file: <./diagrams/10000_eps/D2_10000-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-07-08 11:22:04
+(epstopdf)                    size: 6337 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D2_100
+00-eps-converted-to.pdf ./diagrams/10000_eps/D2_10000.eps>
+(epstopdf)             \includegraphics on input line 185.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/10000_eps/D2_10000-eps-converted-to.pdf, id=41, 622.325pt x 249.933
+75pt>
+File: ./diagrams/10000_eps/D2_10000-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./diagrams/10000_eps/D2_10000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/10000_eps/D2_10000-eps-converted-to.pdf use
+d on input line 185.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/10000_eps/D3_10000.eps>
+(epstopdf)                    date: 2014-07-08 10:18:14
+(epstopdf)                    size: 22546 bytes
+(epstopdf)             Output file: <./diagrams/10000_eps/D3_10000-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-07-08 11:22:04
+(epstopdf)                    size: 6324 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D3_100
+00-eps-converted-to.pdf ./diagrams/10000_eps/D3_10000.eps>
+(epstopdf)             \includegraphics on input line 189.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/10000_eps/D3_10000-eps-converted-to.pdf, id=42, 622.325pt x 249.933
+75pt>
+File: ./diagrams/10000_eps/D3_10000-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./diagrams/10000_eps/D3_10000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/10000_eps/D3_10000-eps-converted-to.pdf use
+d on input line 189.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/10000_eps/D5_10000.eps>
+(epstopdf)                    date: 2014-07-08 10:18:28
+(epstopdf)                    size: 22546 bytes
+(epstopdf)             Output file: <./diagrams/10000_eps/D5_10000-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-07-08 11:22:05
+(epstopdf)                    size: 6317 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D5_100
+00-eps-converted-to.pdf ./diagrams/10000_eps/D5_10000.eps>
+(epstopdf)             \includegraphics on input line 193.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/10000_eps/D5_10000-eps-converted-to.pdf, id=43, 622.325pt x 249.933
+75pt>
+File: ./diagrams/10000_eps/D5_10000-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./diagrams/10000_eps/D5_10000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/10000_eps/D5_10000-eps-converted-to.pdf use
+d on input line 193.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+Package epstopdf Info: Source file: <./diagrams/10000_eps/D6_10000.eps>
+(epstopdf)                    date: 2014-07-08 10:18:52
+(epstopdf)                    size: 22546 bytes
+(epstopdf)             Output file: <./diagrams/10000_eps/D6_10000-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-07-08 11:22:06
+(epstopdf)                    size: 6120 bytes
+(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D6_100
+00-eps-converted-to.pdf ./diagrams/10000_eps/D6_10000.eps>
+(epstopdf)             \includegraphics on input line 197.
+Package epstopdf Info: Output file is already uptodate.
+
+<./diagrams/10000_eps/D6_10000-eps-converted-to.pdf, id=44, 622.325pt x 249.933
+75pt>
+File: ./diagrams/10000_eps/D6_10000-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./diagrams/10000_eps/D6_10000-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/10000_eps/D6_10000-eps-converted-to.pdf use
+d on input line 197.
+(pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
+ [4] [5 <D:/GitHub/experiment_draft/diagrams/replay_attack.pdf> <D:/GitHub/expe
+riment_draft/diagrams/1000_eps/CETD_1000-eps-converted-to.pdf> <D:/GitHub/exper
+iment_draft/diagrams/1000_eps/D1_1000-eps-converted-to.pdf> <D:/GitHub/experime
+nt_draft/diagrams/1000_eps/D2_1000-eps-converted-to.pdf> <D:/GitHub/experiment_
+draft/diagrams/1000_eps/D3_1000-eps-converted-to.pdf> <D:/GitHub/experiment_dra
+ft/diagrams/1000_eps/D5_1000-eps-converted-to.pdf> <D:/GitHub/experiment_draft/
+diagrams/1000_eps/D6_1000-eps-converted-to.pdf>] [6 <D:/GitHub/experiment_draft
+/diagrams/10000_eps/CETD_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draf
+t/diagrams/10000_eps/D1_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draft
+/diagrams/10000_eps/D2_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draft/
+diagrams/10000_eps/D3_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draft/d
+iagrams/10000_eps/D5_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draft/di
+agrams/10000_eps/D6_10000-eps-converted-to.pdf>]
+(D:\GitHub\experiment_draft\experiment_draft.aux
 (D:\GitHub\experiment_draft\Notation.aux)) ) 
 Here is how much of TeX's memory you used:
- 2547 strings out of 493921
- 33532 string characters out of 3152095
- 93970 words of memory out of 3000000
- 5806 multiletter control sequences out of 15000+200000
- 5612 words of font info for 21 fonts, out of 3000000 for 9000
+ 2646 strings out of 493921
+ 37061 string characters out of 3152095
+ 99266 words of memory out of 3000000
+ 5888 multiletter control sequences out of 15000+200000
+ 5911 words of font info for 22 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,8n,24p,597b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,25p,597b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
 <G:/Tools/MikTex/fonts/type1/public
 /amsfonts/cm/cmbx10.pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.
 pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><G:/Tools/MikTex
 /fonts/type1/public/amsfonts/cm/cmmi7.pfb><G:/Tools/MikTex/fonts/type1/public/a
-msfonts/cm/cmr10.pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb
->
-Output written on experiment_draft.pdf (4 pages, 322581 bytes).
+msfonts/cm/cmr10.pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><
+G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on experiment_draft.pdf (6 pages, 464193 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
