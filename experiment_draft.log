@@ -1,21 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.3)  8 JUL 2014 12:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.19)  14 JUL 2014 16:16
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **experiment_draft.tex
-(D:\GitHub\experiment_draft\experiment_draft.tex
+(./experiment_draft.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-(G:\Tools\MikTex\tex\latex\base\article.cls
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(G:\Tools\MikTex\tex\latex\base\size10.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -30,16 +23,18 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(G:\Tools\MikTex\tex\latex\nomencl\nomencl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 \nomlabelwidth=\dimen103
 \nom@tempdim=\dimen104
 \nomitemsep=\skip43
 )
 \@nomenclaturefile=\write3
+\openout3 = `experiment_draft.nlo'.
+
 
 Writing nomenclature file experiment_draft.nlo
-(G:\Tools\MikTex\tex\latex\amscls\amsthm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2004/08/06 v2.20
 \thm@style=\toks14
 \thm@bodyfont=\toks15
@@ -51,24 +46,24 @@ Package: amsthm 2004/08/06 v2.20
 \thm@headsep=\skip46
 \dth@everypar=\toks19
 )
-(G:\Tools\MikTex\tex\latex\amsmath\amsmath.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip47
 
 For additional information on amsmath, use the `?' option.
-(G:\Tools\MikTex\tex\latex\amsmath\amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(G:\Tools\MikTex\tex\latex\amsmath\amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks20
 \ex@=\dimen105
 ))
-(G:\Tools\MikTex\tex\latex\amsmath\amsbsy.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen106
 )
-(G:\Tools\MikTex\tex\latex\amsmath\amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
@@ -109,31 +104,31 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(G:\Tools\MikTex\tex\latex\graphics\graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(G:\Tools\MikTex\tex\latex\graphics\keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks25
 )
-(G:\Tools\MikTex\tex\latex\graphics\graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(G:\Tools\MikTex\tex\latex\graphics\trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(G:\Tools\MikTex\tex\latex\00miktex\graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(G:\Tools\MikTex\tex\latex\pdftex-def\pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(G:\Tools\MikTex\tex\generic\oberdiek\infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(G:\Tools\MikTex\tex\generic\oberdiek\ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count99
@@ -141,8 +136,8 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-(G:\Tools\MikTex\tex\latex\subfigure\subfigure.sty
-Package: subfigure 2002/07/30 v2.1.4 subfigure package
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip50
 \subfigcapskip=\skip51
 \subfigcaptopadj=\dimen116
@@ -157,38 +152,38 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(G:\Tools\MikTex\tex\latex\subfigure\subfigure.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip54
 \subfig@bottom=\skip55
 )
-(G:\Tools\MikTex\tex\latex\tools\verbatim.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks26
 \verbatim@line=\toks27
 \verbatim@in@stream=\read1
 )
-(G:\Tools\MikTex\tex\latex\oberdiek\epstopdf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-(G:\Tools\MikTex\tex\latex\oberdiek\epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(G:\Tools\MikTex\tex\latex\oberdiek\grfext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(G:\Tools\MikTex\tex\generic\oberdiek\kvdefinekeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(G:\Tools\MikTex\tex\latex\oberdiek\kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(G:\Tools\MikTex\tex\generic\oberdiek\kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(G:\Tools\MikTex\tex\generic\oberdiek\etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
-(G:\Tools\MikTex\tex\generic\oberdiek\ifluatex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -197,11 +192,11 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(G:\Tools\MikTex\tex\generic\oberdiek\pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(G:\Tools\MikTex\tex\generic\oberdiek\ifpdf.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -214,8 +209,12 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-))
-(G:\Tools\MikTex\tex\latex\booktabs\booktabs.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen118
 \lightrulewidth=\dimen119
@@ -239,8 +238,9 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \c@defination=\count109
 \c@proposition=\count110
 
-(D:\GitHub\experiment_draft\experiment_draft.aux
-(D:\GitHub\experiment_draft\Notation.aux))
+(./experiment_draft.aux (./Notation.aux))
+\openout1 = `experiment_draft.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
@@ -254,7 +254,7 @@ LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 
-(G:\Tools\MikTex\tex\context\base\supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count111
 \scratchdimen=\dimen131
@@ -267,10 +267,13 @@ LaTeX Font Info:    ... okay on input line 20.
 \MPnumerator=\count115
 \makeMPintoPDFobject=\count116
 \everyMPtoPDFconversion=\toks29
-) (D:\GitHub\experiment_draft\Notation.tex)
+)
+\openout2 = `Notation.aux'.
+
+ (./Notation.tex)
 No file experiment_draft.nls.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
-(G:\Tools\MikTex\tex\latex\base\omscmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -279,13 +282,13 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \hbox (11.19905pt too wide) in paragraph at lines 70--71
 \OT1/cmr/m/n/10 dis-tinct T1s and T2s, marked as Round$[]$[]num[]T1[]S$[]$ and 
 Round$[]$[]num[]T2[]S$[]$.
  []
 
-<./diagrams/nonceCollide_flow.pdf, id=11, 573.94424pt x 546.24077pt>
+<./diagrams/nonceCollide_flow.pdf, id=12, 573.94424pt x 546.24077pt>
 File: ./diagrams/nonceCollide_flow.pdf Graphic file (type pdf)
 
 <use ./diagrams/nonceCollide_flow.pdf>
@@ -293,7 +296,7 @@ Package pdftex.def Info: ./diagrams/nonceCollide_flow.pdf used on input line 75
 .
 (pdftex.def)             Requested size: 286.97142pt x 273.11972pt.
 
-<./diagrams/static_array.pdf, id=12, 479.99326pt x 276.43274pt>
+<./diagrams/static_array.pdf, id=13, 479.99326pt x 276.43274pt>
 File: ./diagrams/static_array.pdf Graphic file (type pdf)
 
 <use ./diagrams/static_array.pdf>
@@ -305,36 +308,34 @@ Overfull \hbox (40.89154pt too wide) in paragraph at lines 82--84
 er-age of Round$[]$[]num[]T1[]S$[]$s
  []
 
-[2] [3 <D:/GitHub/experiment_draft/diagrams/nonceCollide_flow.pdf> <D:/GitHub/e
-xperiment_draft/diagrams/static_array.pdf
+[2] [3 <./diagrams/nonceCollide_flow.pdf> <./diagrams/static_array.pdf
 
-pdfTeX warning: pdflatex.exe (file D:/GitHub/experiment_draft/diagrams/static_a
-rray.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
-ge
+pdfTeX warning: pdflatex (file ./diagrams/static_array.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 >]
 Overfull \hbox (26.12567pt too wide) in paragraph at lines 101--115
  [][][] 
  []
 
-<./diagrams/replay_attack.pdf, id=32, 475.17525pt x 327.624pt>
+<./diagrams/replay_attack.pdf, id=33, 475.17525pt x 327.624pt>
 File: ./diagrams/replay_attack.pdf Graphic file (type pdf)
 
 <use ./diagrams/replay_attack.pdf>
 Package pdftex.def Info: ./diagrams/replay_attack.pdf used on input line 118.
 (pdftex.def)             Requested size: 190.06673pt x 131.04727pt.
 Package epstopdf Info: Source file: <./diagrams/1000_eps/CETD_1000.eps>
-(epstopdf)                    date: 2014-07-08 10:14:24
-(epstopdf)                    size: 22546 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21461 bytes
 (epstopdf)             Output file: <./diagrams/1000_eps/CETD_1000-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2014-07-08 11:04:42
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6675 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/CETD_10
-00-eps-converted-to.pdf ./diagrams/1000_eps/CETD_1000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/1000_eps/CETD_1
+000-eps-converted-to.pdf ./diagrams/1000_eps/CETD_1000.eps>
 (epstopdf)             \includegraphics on input line 130.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/1000_eps/CETD_1000-eps-converted-to.pdf, id=33, 622.325pt x 249.933
+<./diagrams/1000_eps/CETD_1000-eps-converted-to.pdf, id=34, 622.325pt x 249.933
 75pt>
 File: ./diagrams/1000_eps/CETD_1000-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -343,18 +344,18 @@ Package pdftex.def Info: ./diagrams/1000_eps/CETD_1000-eps-converted-to.pdf use
 d on input line 130.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/1000_eps/D1_1000.eps>
-(epstopdf)                    date: 2014-07-08 10:14:51
-(epstopdf)                    size: 22544 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21459 bytes
 (epstopdf)             Output file: <./diagrams/1000_eps/D1_1000-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-07-08 10:46:50
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6714 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D1_1000
--eps-converted-to.pdf ./diagrams/1000_eps/D1_1000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/1000_eps/D1_100
+0-eps-converted-to.pdf ./diagrams/1000_eps/D1_1000.eps>
 (epstopdf)             \includegraphics on input line 134.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/1000_eps/D1_1000-eps-converted-to.pdf, id=34, 622.325pt x 249.93375
+<./diagrams/1000_eps/D1_1000-eps-converted-to.pdf, id=35, 622.325pt x 249.93375
 pt>
 File: ./diagrams/1000_eps/D1_1000-eps-converted-to.pdf Graphic file (type pdf)
  <use ./diagrams/1000_eps/D1_1000-eps-converted-to.pdf>
@@ -362,18 +363,18 @@ Package pdftex.def Info: ./diagrams/1000_eps/D1_1000-eps-converted-to.pdf used
 on input line 134.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/1000_eps/D2_1000.eps>
-(epstopdf)                    date: 2014-07-08 10:15:15
-(epstopdf)                    size: 22544 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21459 bytes
 (epstopdf)             Output file: <./diagrams/1000_eps/D2_1000-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-07-08 11:04:43
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6950 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D2_1000
--eps-converted-to.pdf ./diagrams/1000_eps/D2_1000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/1000_eps/D2_100
+0-eps-converted-to.pdf ./diagrams/1000_eps/D2_1000.eps>
 (epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/1000_eps/D2_1000-eps-converted-to.pdf, id=35, 622.325pt x 249.93375
+<./diagrams/1000_eps/D2_1000-eps-converted-to.pdf, id=36, 622.325pt x 249.93375
 pt>
 File: ./diagrams/1000_eps/D2_1000-eps-converted-to.pdf Graphic file (type pdf)
  <use ./diagrams/1000_eps/D2_1000-eps-converted-to.pdf>
@@ -381,18 +382,18 @@ Package pdftex.def Info: ./diagrams/1000_eps/D2_1000-eps-converted-to.pdf used
 on input line 138.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/1000_eps/D3_1000.eps>
-(epstopdf)                    date: 2014-07-08 10:15:37
-(epstopdf)                    size: 22544 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21459 bytes
 (epstopdf)             Output file: <./diagrams/1000_eps/D3_1000-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-07-08 11:04:43
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6913 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D3_1000
--eps-converted-to.pdf ./diagrams/1000_eps/D3_1000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/1000_eps/D3_100
+0-eps-converted-to.pdf ./diagrams/1000_eps/D3_1000.eps>
 (epstopdf)             \includegraphics on input line 142.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/1000_eps/D3_1000-eps-converted-to.pdf, id=36, 622.325pt x 249.93375
+<./diagrams/1000_eps/D3_1000-eps-converted-to.pdf, id=37, 622.325pt x 249.93375
 pt>
 File: ./diagrams/1000_eps/D3_1000-eps-converted-to.pdf Graphic file (type pdf)
  <use ./diagrams/1000_eps/D3_1000-eps-converted-to.pdf>
@@ -400,18 +401,18 @@ Package pdftex.def Info: ./diagrams/1000_eps/D3_1000-eps-converted-to.pdf used
 on input line 142.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/1000_eps/D5_1000.eps>
-(epstopdf)                    date: 2014-07-08 10:16:01
-(epstopdf)                    size: 22544 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21459 bytes
 (epstopdf)             Output file: <./diagrams/1000_eps/D5_1000-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-07-08 11:04:44
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6747 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D5_1000
--eps-converted-to.pdf ./diagrams/1000_eps/D5_1000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/1000_eps/D5_100
+0-eps-converted-to.pdf ./diagrams/1000_eps/D5_1000.eps>
 (epstopdf)             \includegraphics on input line 146.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/1000_eps/D5_1000-eps-converted-to.pdf, id=37, 622.325pt x 249.93375
+<./diagrams/1000_eps/D5_1000-eps-converted-to.pdf, id=38, 622.325pt x 249.93375
 pt>
 File: ./diagrams/1000_eps/D5_1000-eps-converted-to.pdf Graphic file (type pdf)
  <use ./diagrams/1000_eps/D5_1000-eps-converted-to.pdf>
@@ -419,18 +420,18 @@ Package pdftex.def Info: ./diagrams/1000_eps/D5_1000-eps-converted-to.pdf used
 on input line 146.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/1000_eps/D6_1000.eps>
-(epstopdf)                    date: 2014-07-08 10:16:21
-(epstopdf)                    size: 22544 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21459 bytes
 (epstopdf)             Output file: <./diagrams/1000_eps/D6_1000-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-07-08 11:04:44
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6608 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/1000_eps/D6_1000
--eps-converted-to.pdf ./diagrams/1000_eps/D6_1000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/1000_eps/D6_100
+0-eps-converted-to.pdf ./diagrams/1000_eps/D6_1000.eps>
 (epstopdf)             \includegraphics on input line 150.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/1000_eps/D6_1000-eps-converted-to.pdf, id=38, 622.325pt x 249.93375
+<./diagrams/1000_eps/D6_1000-eps-converted-to.pdf, id=39, 622.325pt x 249.93375
 pt>
 File: ./diagrams/1000_eps/D6_1000-eps-converted-to.pdf Graphic file (type pdf)
  <use ./diagrams/1000_eps/D6_1000-eps-converted-to.pdf>
@@ -438,18 +439,18 @@ Package pdftex.def Info: ./diagrams/1000_eps/D6_1000-eps-converted-to.pdf used
 on input line 150.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/10000_eps/CETD_10000.eps>
-(epstopdf)                    date: 2014-07-08 10:17:03
-(epstopdf)                    size: 22548 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21463 bytes
 (epstopdf)             Output file: <./diagrams/10000_eps/CETD_10000-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2014-07-08 11:22:18
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6520 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/CETD_1
-0000-eps-converted-to.pdf ./diagrams/10000_eps/CETD_10000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/10000_eps/CETD_
+10000-eps-converted-to.pdf ./diagrams/10000_eps/CETD_10000.eps>
 (epstopdf)             \includegraphics on input line 177.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/10000_eps/CETD_10000-eps-converted-to.pdf, id=39, 622.325pt x 249.9
+<./diagrams/10000_eps/CETD_10000-eps-converted-to.pdf, id=40, 622.325pt x 249.9
 3375pt>
 File: ./diagrams/10000_eps/CETD_10000-eps-converted-to.pdf Graphic file (type p
 df)
@@ -458,18 +459,18 @@ Package pdftex.def Info: ./diagrams/10000_eps/CETD_10000-eps-converted-to.pdf u
 sed on input line 177.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/10000_eps/D1_10000.eps>
-(epstopdf)                    date: 2014-07-08 10:17:32
-(epstopdf)                    size: 22546 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21461 bytes
 (epstopdf)             Output file: <./diagrams/10000_eps/D1_10000-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2014-07-08 11:22:03
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6122 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D1_100
-00-eps-converted-to.pdf ./diagrams/10000_eps/D1_10000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/10000_eps/D1_10
+000-eps-converted-to.pdf ./diagrams/10000_eps/D1_10000.eps>
 (epstopdf)             \includegraphics on input line 181.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/10000_eps/D1_10000-eps-converted-to.pdf, id=40, 622.325pt x 249.933
+<./diagrams/10000_eps/D1_10000-eps-converted-to.pdf, id=41, 622.325pt x 249.933
 75pt>
 File: ./diagrams/10000_eps/D1_10000-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -478,18 +479,18 @@ Package pdftex.def Info: ./diagrams/10000_eps/D1_10000-eps-converted-to.pdf use
 d on input line 181.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/10000_eps/D2_10000.eps>
-(epstopdf)                    date: 2014-07-08 10:17:58
-(epstopdf)                    size: 22546 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21461 bytes
 (epstopdf)             Output file: <./diagrams/10000_eps/D2_10000-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2014-07-08 11:22:04
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6337 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D2_100
-00-eps-converted-to.pdf ./diagrams/10000_eps/D2_10000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/10000_eps/D2_10
+000-eps-converted-to.pdf ./diagrams/10000_eps/D2_10000.eps>
 (epstopdf)             \includegraphics on input line 185.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/10000_eps/D2_10000-eps-converted-to.pdf, id=41, 622.325pt x 249.933
+<./diagrams/10000_eps/D2_10000-eps-converted-to.pdf, id=42, 622.325pt x 249.933
 75pt>
 File: ./diagrams/10000_eps/D2_10000-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -498,18 +499,18 @@ Package pdftex.def Info: ./diagrams/10000_eps/D2_10000-eps-converted-to.pdf use
 d on input line 185.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/10000_eps/D3_10000.eps>
-(epstopdf)                    date: 2014-07-08 10:18:14
-(epstopdf)                    size: 22546 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21461 bytes
 (epstopdf)             Output file: <./diagrams/10000_eps/D3_10000-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2014-07-08 11:22:04
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6324 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D3_100
-00-eps-converted-to.pdf ./diagrams/10000_eps/D3_10000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/10000_eps/D3_10
+000-eps-converted-to.pdf ./diagrams/10000_eps/D3_10000.eps>
 (epstopdf)             \includegraphics on input line 189.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/10000_eps/D3_10000-eps-converted-to.pdf, id=42, 622.325pt x 249.933
+<./diagrams/10000_eps/D3_10000-eps-converted-to.pdf, id=43, 622.325pt x 249.933
 75pt>
 File: ./diagrams/10000_eps/D3_10000-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -518,18 +519,18 @@ Package pdftex.def Info: ./diagrams/10000_eps/D3_10000-eps-converted-to.pdf use
 d on input line 189.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/10000_eps/D5_10000.eps>
-(epstopdf)                    date: 2014-07-08 10:18:28
-(epstopdf)                    size: 22546 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21461 bytes
 (epstopdf)             Output file: <./diagrams/10000_eps/D5_10000-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2014-07-08 11:22:05
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6317 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D5_100
-00-eps-converted-to.pdf ./diagrams/10000_eps/D5_10000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/10000_eps/D5_10
+000-eps-converted-to.pdf ./diagrams/10000_eps/D5_10000.eps>
 (epstopdf)             \includegraphics on input line 193.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/10000_eps/D5_10000-eps-converted-to.pdf, id=43, 622.325pt x 249.933
+<./diagrams/10000_eps/D5_10000-eps-converted-to.pdf, id=44, 622.325pt x 249.933
 75pt>
 File: ./diagrams/10000_eps/D5_10000-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -538,18 +539,18 @@ Package pdftex.def Info: ./diagrams/10000_eps/D5_10000-eps-converted-to.pdf use
 d on input line 193.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
 Package epstopdf Info: Source file: <./diagrams/10000_eps/D6_10000.eps>
-(epstopdf)                    date: 2014-07-08 10:18:52
-(epstopdf)                    size: 22546 bytes
+(epstopdf)                    date: 2014-07-13 22:35:11
+(epstopdf)                    size: 21461 bytes
 (epstopdf)             Output file: <./diagrams/10000_eps/D6_10000-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2014-07-08 11:22:06
+(epstopdf)                    date: 2014-07-13 22:35:11
 (epstopdf)                    size: 6120 bytes
-(epstopdf)             Command: <epstopdf --outfile=./diagrams/10000_eps/D6_100
-00-eps-converted-to.pdf ./diagrams/10000_eps/D6_10000.eps>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/10000_eps/D6_10
+000-eps-converted-to.pdf ./diagrams/10000_eps/D6_10000.eps>
 (epstopdf)             \includegraphics on input line 197.
 Package epstopdf Info: Output file is already uptodate.
 
-<./diagrams/10000_eps/D6_10000-eps-converted-to.pdf, id=44, 622.325pt x 249.933
+<./diagrams/10000_eps/D6_10000-eps-converted-to.pdf, id=45, 622.325pt x 249.933
 75pt>
 File: ./diagrams/10000_eps/D6_10000-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -557,38 +558,35 @@ File: ./diagrams/10000_eps/D6_10000-eps-converted-to.pdf Graphic file (type pdf
 Package pdftex.def Info: ./diagrams/10000_eps/D6_10000-eps-converted-to.pdf use
 d on input line 197.
 (pdftex.def)             Requested size: 155.58086pt x 62.48328pt.
- [4] [5 <D:/GitHub/experiment_draft/diagrams/replay_attack.pdf> <D:/GitHub/expe
-riment_draft/diagrams/1000_eps/CETD_1000-eps-converted-to.pdf> <D:/GitHub/exper
-iment_draft/diagrams/1000_eps/D1_1000-eps-converted-to.pdf> <D:/GitHub/experime
-nt_draft/diagrams/1000_eps/D2_1000-eps-converted-to.pdf> <D:/GitHub/experiment_
-draft/diagrams/1000_eps/D3_1000-eps-converted-to.pdf> <D:/GitHub/experiment_dra
-ft/diagrams/1000_eps/D5_1000-eps-converted-to.pdf> <D:/GitHub/experiment_draft/
-diagrams/1000_eps/D6_1000-eps-converted-to.pdf>] [6 <D:/GitHub/experiment_draft
-/diagrams/10000_eps/CETD_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draf
-t/diagrams/10000_eps/D1_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draft
-/diagrams/10000_eps/D2_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draft/
-diagrams/10000_eps/D3_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draft/d
-iagrams/10000_eps/D5_10000-eps-converted-to.pdf> <D:/GitHub/experiment_draft/di
-agrams/10000_eps/D6_10000-eps-converted-to.pdf>]
-(D:\GitHub\experiment_draft\experiment_draft.aux
-(D:\GitHub\experiment_draft\Notation.aux)) ) 
+ [4] [5 <./diagrams/replay_attack.pdf> <./diagrams/1000_eps/CETD_1000-eps-conve
+rted-to.pdf> <./diagrams/1000_eps/D1_1000-eps-converted-to.pdf> <./diagrams/100
+0_eps/D2_1000-eps-converted-to.pdf> <./diagrams/1000_eps/D3_1000-eps-converted-
+to.pdf> <./diagrams/1000_eps/D5_1000-eps-converted-to.pdf> <./diagrams/1000_eps
+/D6_1000-eps-converted-to.pdf>] [6 <./diagrams/10000_eps/CETD_10000-eps-convert
+ed-to.pdf> <./diagrams/10000_eps/D1_10000-eps-converted-to.pdf> <./diagrams/100
+00_eps/D2_10000-eps-converted-to.pdf> <./diagrams/10000_eps/D3_10000-eps-conver
+ted-to.pdf> <./diagrams/10000_eps/D5_10000-eps-converted-to.pdf> <./diagrams/10
+000_eps/D6_10000-eps-converted-to.pdf>] (./experiment_draft.aux (./Notation.aux
+)) ) 
 Here is how much of TeX's memory you used:
- 2646 strings out of 493921
- 37061 string characters out of 3152095
- 99266 words of memory out of 3000000
- 5888 multiletter control sequences out of 15000+200000
- 5911 words of font info for 22 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 42i,8n,25p,597b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
-<G:/Tools/MikTex/fonts/type1/public
-/amsfonts/cm/cmbx10.pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><G:/Tools/MikTex
-/fonts/type1/public/amsfonts/cm/cmmi7.pfb><G:/Tools/MikTex/fonts/type1/public/a
-msfonts/cm/cmr10.pfb><G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-G:/Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on experiment_draft.pdf (6 pages, 464193 bytes).
+ 2651 strings out of 493304
+ 38069 string characters out of 6139871
+ 104383 words of memory out of 5000000
+ 6057 multiletter control sequences out of 15000+600000
+ 5911 words of font info for 22 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 42i,8n,25p,596b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on experiment_draft.pdf (6 pages, 448759 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
